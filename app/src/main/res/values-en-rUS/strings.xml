@@ -2,10 +2,14 @@
 <resources>
     <string name="app_name">poiskovik</string>
     <string name="bot_name">Tsenilov Petr</string>
-    <string name="button_1">menu</string>
-    <string name="button_2">favourites</string>
-    <string name="button_3">see later</string>
-    <string name="button_4">compilations</string>
-    <string name="button_5">settings</string>
+    <string name="menu">menu</string>
+    <string name="favourites">favourites</string>
+    <string name="watch_later">see later</string>
+    <string name="compilations">compilations</string>
+    <string name="settings">settings</string>
     <string name="text_web">The pictures are taken from movieposters.com</string>
+    <string name="menu_settings_title">Settings</string>
+    <string name="menu_favouritres_title">Favourite</string>
+    <string name="menu_watch_later_title">Watch later</string>
+    <string name="menu_selections_title">Compilations</string>
 </resources>

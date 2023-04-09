@@ -42,7 +42,7 @@
         android:onClick="onClickToast"
         android:background="@drawable/sel"
 
-        android:text="@string/button_1" />
+        android:text="@string/menu" />
 
 
 
